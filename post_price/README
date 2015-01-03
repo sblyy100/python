@@ -39,3 +39,16 @@ weight:14kg num:7 price:59
 weight:16kg num:8 price:56
 weight:18kg num:9 price:53
 weight:20kg num:10 price:51
+
+#奶粉
+sbl@sbl-pc:~/doc/git/python/post_price$ python calc_price.py -w 1000 -m 2 
+weight:1kg num:1 price:79
+weight:2kg num:2 price:46
+weight:3kg num:3 price:35
+weight:4kg num:4 price:29
+weight:5kg num:5 price:26
+weight:6kg num:6 price:24
+weight:7kg num:7 price:22
+weight:8kg num:8 price:21
+weight:9kg num:9 price:20
+weight:10kg num:10 price:19
